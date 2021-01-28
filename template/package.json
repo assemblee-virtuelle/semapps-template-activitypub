@@ -12,15 +12,15 @@
     "start": "moleculer-runner --env --instances=max services"
   },
   "dependencies": {
-    "@semapps/activitypub": "0.1.15",
-    "@semapps/ldp": "0.1.15",
-    "@semapps/signature": "0.1.15",
-    "@semapps/triplestore": "0.1.15",
-    "@semapps/webfinger": "0.1.15",
+    "@semapps/activitypub": "0.1.42",
+    "@semapps/ldp": "0.1.42",
+    "@semapps/signature": "0.1.42",
+    "@semapps/triplestore": "0.1.42",
+    "@semapps/webfinger": "0.1.42",
     "dotenv": "^8.2.0",
     "moleculer": "^0.14.4",
-    "moleculer-web": "^0.9.1",
     "moleculer-repl": "^0.6.3",
+    "moleculer-web": "^0.9.1",
     "url-join": "^4.0.1"
   }
 }
