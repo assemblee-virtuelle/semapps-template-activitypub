@@ -2,8 +2,7 @@
 [Moleculer](https://moleculer.services) template to generate a [SemApps](https://semapps.org)-based ActivityPub server 
 
 ## Features
-- Compatible with Moleculer v0.14.x
-- Fully conformant ActivityPub server
+- Fully conforming ActivityPub server
 - Supports federation thanks to HTTP signature and Webfinger
 - Docker file to run Jena Fuseki triple store locally (optional)
 
